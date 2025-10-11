@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 89,
+    "min_format": 0,
+    "max_format": 1000,
+    "description": [
+      {
+        "text": "⚔ Clash Royale Spear ⚔",
+        "color": "#ec2727"
+      },
+      "\n",
+      {
+        "text": "By Dewonic",
+        "color": "#d02550"
+      }
+    ]
+  }
+}

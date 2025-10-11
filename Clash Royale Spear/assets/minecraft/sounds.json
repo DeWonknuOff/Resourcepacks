@@ -1,0 +1,38 @@
+{
+	"item.spear.use":{
+		"sounds": [
+			{"name":"crs:item/spear/use"}
+		],
+		"replace": true
+	},
+	"item.spear.hit":{
+		"sounds": [
+			{"name":"crs:item/spear/hit"}
+		],
+		"replace": true
+	},
+	"item.spear.lunge_1":{
+		"sounds": [
+			{"name":"crs:item/spear/lunge0"},
+			{"name":"crs:item/spear/lunge1"},
+			{"name":"crs:item/spear/lunge2"}
+		],
+		"replace": true
+	},
+	"item.spear.lunge_2":{
+		"sounds": [
+			{"name":"crs:item/spear/lunge0"},
+			{"name":"crs:item/spear/lunge1"},
+			{"name":"crs:item/spear/lunge2"}
+		],
+		"replace": true
+	},
+	"item.spear.lunge_3":{
+		"sounds": [
+			{"name":"crs:item/spear/lunge0"},
+			{"name":"crs:item/spear/lunge1"},
+			{"name":"crs:item/spear/lunge2"}
+		],
+		"replace": true
+	}
+}
