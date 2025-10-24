@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 88,
+    "description": [
+      {
+        "text": "🐺 Monster Can 🐺",
+        "color": "#54F527"
+      },
+      "\n",
+      {
+        "text": "By Dewonic",
+        "color": "#11C272"
+      }
+    ],
+    "min_format": 69,
+    "max_format": 1000
+  }
+}
